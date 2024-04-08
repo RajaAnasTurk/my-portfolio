@@ -27,7 +27,7 @@ const SkillsItem = ({ title, year, framework }: Props) => {
         {year}
       </h1>
       <p className="text-[#aaaaaa] font-normal w-[80%] text-[17px] opacity-80">
-        I'm a {framework} developer, {description}.
+        I am a {framework} developer {description}.
       </p>
     </div>
   );

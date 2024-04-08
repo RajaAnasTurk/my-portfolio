@@ -18,7 +18,7 @@ const Services = () => {
               Front-End Developer
             </h1>
             <p className="text-[15px] text-[#d3d2d2] font-normal">
-            I'm a front end developer, crafting sleek designs and intuitive interfaces for websites 
+            I am front end developer, crafting sleek designs and intuitive interfaces for websites 
             and apps. Using HTML, CSS, and JavaScript, I ensure seamless user experiences across 
             devices.
             </p>
@@ -33,7 +33,7 @@ const Services = () => {
               Back-End Developer
             </h1>
             <p className="text-[15px] text-[#d3d2d2] font-normal">
-            I'm a back end developer.Building the behind the scenes functionality of websites and 
+            I am back end developer.Building the behind the scenes functionality of websites and 
             applications.Using languages like Python,Java or PHP.I ensure data storage, 
             security and serverside operations smoothly.
             </p>
@@ -47,8 +47,8 @@ const Services = () => {
               Full-Stack Developer
             </h1>
             <p className="text-[15px] text-[#d3d2d2] font-normal">
-            I'm a full stack developer, proficient in both front end and back end technologies.
-            From designing user interfaces to managing databases and server logic,
+            I am a full stack developer proficient in both front end and back end technologies.
+            From designing user interfaces to managing databases and server logic
             I bring end-to-end solutions.
             </p>
           </div>

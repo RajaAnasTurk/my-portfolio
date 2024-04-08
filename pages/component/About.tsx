@@ -17,11 +17,11 @@ const About = () => {
             <div className="mb-[3rem] flex items-center md:space-x-10">
               <span className="w-[100px] hidden md:block h-[5px] bg-green-300 rounded-sm"></span>
               <p className="text-[19px] text-slate-300 w-[80%]">
-              Hey! I'm a front end developer. You know those websites and apps you love to use? Well, 
-              I'm the one who makes them look great and work smoothly. I use React.js, Next.js,Tailwind CSS,
+              Hey! I am a front end developer. You know those websites and apps you love to use?Well, 
+              I am the one who makes them look great and work smoothly. I use React.js, Next.js,Tailwind CSS,
               HTML5, CSS3, TypeScript and JavaScript to bring designs to life and make sure everything is 
               easy to use on your phone, tablet, or computer. I collaborate with designers and other 
-              developers to create awesome user experiences. It's all about making things intuitive 
+              developers to create awesome user experiences. Its all about making things intuitive 
               and fun for you!
               </p>
             </div>
