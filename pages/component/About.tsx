@@ -38,7 +38,7 @@ const About = () => {
           className="lg:w-[400px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[400px] w-[400px] h-[400px] relative"
         >
           <Image 
-           src="/images/u2.jpg" 
+           src="/images/u1.jpg" 
            alt="user" 
            layout="fill" 
            objectFit="contain" 

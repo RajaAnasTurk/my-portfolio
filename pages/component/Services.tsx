@@ -35,7 +35,7 @@ const Services = () => {
             <p className="text-[15px] text-[#d3d2d2] font-normal">
             I am back end developer.Building the behind the scenes functionality of websites and 
             applications.Using languages like Python,Java or PHP.I ensure data storage, 
-            security and serverside operations smoothly.
+            security.
             </p>
           </div>
         </div>
