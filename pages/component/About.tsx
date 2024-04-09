@@ -1,5 +1,4 @@
 import { ArrowUpTrayIcon } from "@heroicons/react/20/solid";
-import Image from "next/image";
 import React from "react";
 
 const About = () => {
@@ -35,18 +34,13 @@ const About = () => {
         </div>
         <div 
           data-aos="fade-left" 
-          className="lg:w-[400px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[400px] w-[400px] h-[400px] relative"
+          className="lg:w-full mx-auto md:mx-0 mt-[2rem] lg:mt-0 w-full relative"
         >
-          <Image 
+          <img 
            src="/images/u1.jpg" 
            alt="user" 
-           layout="fill" 
-           objectFit="contain" 
-           className="relative z-[8] w-[100%] h-[100%] object-contain"
+           className="w-full h-auto md:h-[400px] object-contain"
           />
-          {/* <div className="absolute w-[90%] h-[90%] z-[10] bg-[#55e6a5] top-[-2rem] right-[-2rem]">
-
-          </div> */}
         </div>
       </div>
     </div>
@@ -54,4 +48,3 @@ const About = () => {
 };
 
 export default About;
- 
