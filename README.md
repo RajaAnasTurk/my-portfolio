@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`Porfolio Project`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js] project bootstrapped with [`Porfolio Project`] [https://github.com/RajaAnasTurk/my_portfolio-web.git] (http://my-portfolio-web-flax.vercel.app).
 
 ## Getting Started
 
